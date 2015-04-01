@@ -5,4 +5,4 @@
  * [Dvojna kremna osnova](https://github.com/rodeob/sladoled/blob/master/OsnovaDvojna.md)
 
 ## Čokoladni
- * [Navadni čokoladni sladolde](https://github.com/rodeob/sladoled/blob/master/coko/coko.md)
+ * [Navadni čokoladni sladoled](https://github.com/rodeob/sladoled/blob/master/coko/Coko.md)
