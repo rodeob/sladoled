@@ -1,4 +1,4 @@
-# Osnovi recept za sladoled
+# Osnovi recept za kremni sladoled
 
 Sam po sebi je jajčni kremast sladoled, ki pa ga zelo lahko obogatimo z raznimi okusi.
 
