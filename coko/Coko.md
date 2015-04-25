@@ -15,3 +15,9 @@ Potrebujemo [kremno osnovo](https://github.com/rodeob/sladoled/blob/master/Osnov
 Pripravimo kremno osnovo, a ne dodamo takoj sladke smetane. Smetano najprej zavremo in v njen raztopimo čokolado in kakav v prahu. Ko jo ohladimo jo dodamo v zmes mleka in rumenjakov. Nato dodamo še javorjev sirup in prelijemo v napravo za izdelovanje sladoleda.
 
 Za še bolj čokoladni okus, lahko raztopimo nekaj čokolade in ko je sladoled skoraj že narejen, jo počasi med mešanjem vlivamo vanj, da nastanejo v sladoledu majhni koščki čokolade. 
+
+## Variacije
+
+### Čokoladni sladoled z meto (after eight)
+
+Čokoladni sladoled z meto najlažje naredimo tako, da temno čokolado nadomestimo s čokolado z dodanim okusom mete. Zelo dobro se obnese Lindt čokolada z meto.
