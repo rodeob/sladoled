@@ -14,5 +14,12 @@ Preizkušeni so bili v napravah:
    * [Čokoladni sladoled z meto](https://github.com/rodeob/sladoled/blob/master/coko/Coko.md#%C4%8Cokoladni-sladoled-z-meto-after-eight)
 
 ## Sadni
+ * [Bananin kremni sladoled](https://github.com/rodeob/sladoled/blob/master/sadni/bananin.md)
  * [Limonin sladoled](https://github.com/rodeob/sladoled/blob/master/sadni/limonin.md)
-   * [Limetin sladoled](https://github.com/rodeob/sladoled/blob/master/sadni/limonin.md#limetin-sladoled) 
+   * [Limetin sladoled](https://github.com/rodeob/sladoled/blob/master/sadni/limonin.md#limetin-sladoled)
+
+## Dodatki
+
+Ker pri pripravi kremnih sladoledov ostane beljak, se iz njega lahko naredi:
+
+ * [Španski vetrci - Meringue](https://github.com/rodeob/sladoled/blob/master/dodatki/meringue.md)
