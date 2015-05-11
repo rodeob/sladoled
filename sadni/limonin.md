@@ -2,8 +2,6 @@
 
 Dobimo okusen kremast limonin sladoled.
 
-Potrebujemo [kremno osnovo](https://github.com/rodeob/sladoled/blob/master/Osnova.md).
-
 ## Sestavine
 
  * [kremna osnova](https://github.com/rodeob/sladoled/blob/master/Osnova.md)
