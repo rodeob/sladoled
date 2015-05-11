@@ -6,6 +6,7 @@ Potrebujemo [kremno osnovo](https://github.com/rodeob/sladoled/blob/master/Osnov
 
 ## Sestavine
 
+ * [kremna osnova](https://github.com/rodeob/sladoled/blob/master/Osnova.md)
  * 50 ml agavinega sirupa
  * naribano lupinico ene limone
  * sok ene limone
