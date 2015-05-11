@@ -1,4 +1,4 @@
-# Sladoled z javorjevim sirup
+# Sladoled z javorjevim sirupom
 
 Sladoled prijetnega okusa, ki se lahko tudi uporabi namesto kremne osnove v drugih sladoledih. V tem primeru se zmanjša količina javorjevega sirupa, da ni končni produkt presladek.
 
