@@ -9,8 +9,7 @@ Dobimo enako zmes kot v [kremni osnovi](https://github.com/rodeob/sladoled/blob/
  * ščepec soli
  * 500 ml polnomastnega mleka
  * 500 ml sladke smetane
- 
- 
- ## Postopek
+
+## Postopek
  
 V posodi zmešamo sladkor, rumenjak in sol. Mešamo toliko časa, da nastane svetlorumena gladka zmes. Nato dodamo mleko. Vse skupaj v vodni kopelji kuhamo toliko časa, da skoraj zavre. Odstranimo z ognja in ohladimo. Ko je ohlajeno, dodamo smetano in prelijemo v napravo za izdelovanje sladoleda. Ko je sladoled narejen, preložimo v posodo s pokrovom in damo za 1 uro v zamrzovalnik.
