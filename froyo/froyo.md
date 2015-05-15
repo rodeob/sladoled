@@ -10,7 +10,6 @@ Nastane prijeten osvežilni sladoled z okusom po jogurtu. Lahko ga uporabimo za 
  * 200 ml navadnega tekočega jogurta (3,5%)
  * ščepec soli
  
- 
  ## Postopek
  
 Vse sestavine skupaj zmečamo v posodi. Mešamo toliko časa, da se sladkor raztopi. Nato prelijemo v napravo za izdelovanje sladoleda. Ko je sladoled narejen, preložimo v posodo s pokrovom in damo za 1-2 uri v zamrzovalnik.
