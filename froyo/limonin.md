@@ -14,6 +14,6 @@ Pripravimo osnovni zamrznjen jogurt, ki mu dodamo limonino lupinico. Limonin sok
 
 ## Variacije
 
-### Limetin sladoled
+### Limetin zamrznjen jogurt
 
 Enostavno limonin sok zamenjamo z limetinim. Uporabimo dve limeti, ker so manjše od limon. 
