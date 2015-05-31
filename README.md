@@ -8,7 +8,7 @@ Preizkušeni so bili v napravah:
 ## Osnove
  * [Kremna osnova](https://github.com/rodeob/sladoled/blob/master/Osnova.md)
  * [Dvojna kremna osnova](https://github.com/rodeob/sladoled/blob/master/OsnovaDvojna.md)
- * [Zamrznjen jogurt (frozen yogurt) WIP](https://github.com/rodeob/sladoled/blob/master/froyo/froyo.md)
+ * [Zamrznjen jogurt (frozen yogurt)](https://github.com/rodeob/sladoled/blob/master/froyo/froyo.md)
 
 ## Kremni sladoledi
 
