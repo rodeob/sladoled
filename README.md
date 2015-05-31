@@ -23,6 +23,10 @@ Preizkušeni so bili v napravah:
  * [Limonin sladoled](https://github.com/rodeob/sladoled/blob/master/sadni/limonin.md)
    * [Limetin sladoled](https://github.com/rodeob/sladoled/blob/master/sadni/limonin.md#limetin-sladoled)
 
+## Zamrznjen jogurt
+ * [Limonin zamrznjen jogurt](https://github.com/rodeob/sladoled/blob/master/froyo/limonin.md)
+   * [Limetin zamrznjen jogurt](https://github.com/rodeob/sladoled/blob/master/froyo/limonin.md#limetin-zamrznjen-jogurt)
+
 ## Dodatki
 
 Ker pri pripravi kremnih sladoledov ostane beljak, se iz njega lahko naredi:
