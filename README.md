@@ -24,6 +24,7 @@ Preizkušeni so bili v napravah:
    * [Limetin sladoled](https://github.com/rodeob/sladoled/blob/master/sadni/limonin.md#limetin-sladoled)
 
 ## Zamrznjen jogurt
+ * [Borovničev zamrznjen jogurt](https://github.com/rodeob/sladoled/blob/master/froyo/borovnicev.md)
  * [Limonin zamrznjen jogurt](https://github.com/rodeob/sladoled/blob/master/froyo/limonin.md)
    * [Limetin zamrznjen jogurt](https://github.com/rodeob/sladoled/blob/master/froyo/limonin.md#limetin-zamrznjen-jogurt)
 
