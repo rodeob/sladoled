@@ -27,6 +27,7 @@ Preizkušeni so bili v napravah:
  * [Borovničev zamrznjen jogurt](https://github.com/rodeob/sladoled/blob/master/froyo/borovnicev.md)
  * [Limonin zamrznjen jogurt](https://github.com/rodeob/sladoled/blob/master/froyo/limonin.md)
    * [Limetin zamrznjen jogurt](https://github.com/rodeob/sladoled/blob/master/froyo/limonin.md#limetin-zamrznjen-jogurt)
+ * [Zamrznjen jogurt z rabarbaro (rabarbarina pita)](https://github.com/rodeob/sladoled/blob/master/froyo/rabarbara.md) 
 
 ## Dodatki
 
