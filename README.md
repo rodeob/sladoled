@@ -13,6 +13,9 @@ Preizkušeni so bili v napravah:
 ## Kremni sladoledi
 
  * [Sladoled z javorjevim sirupom](https://github.com/rodeob/sladoled/blob/master/kremni/javorjev_sirup.md)
+ * [Sladoled z arašidovim maslom](https://github.com/rodeob/sladoled/blob/master/arasidi/arasidovo_maslo.md)
+   * [Sladoled z arašidovim maslom in arašidi](https://github.com/rodeob/sladoled/blob/master/arasidi/arasidovo_maslo.md#sladoled-z-ara%C5%A1idovim-maslom-in-ara%C5%A1idi)
+   * [Sladoled z arašidovim maslom in čokolado](https://github.com/rodeob/sladoled/blob/master/arasidi/arasidovo_maslo.md#sladoled-z-ara%C5%A1idovim-maslom-in-%C4%8Dokolado)
 
 ### Čokoladni
  * [Navadni čokoladni sladoled](https://github.com/rodeob/sladoled/blob/master/coko/Coko.md)
