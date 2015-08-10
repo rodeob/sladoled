@@ -4,7 +4,7 @@ Dobimo enako zmes kot v [kremni osnovi](https://github.com/rodeob/sladoled/blob/
 
 ## Sestavine
 
- * 100 ml sladkorja
+ * 100 g sladkorja
  * 3 rumenjaki
  * ščepec soli
  * 500 ml polnomastnega mleka
