@@ -12,6 +12,7 @@ Preizkušeni so bili v napravah:
 
 ## Kremni sladoledi
 
+ * [Lešnikov sladoled](https://github.com/rodeob/sladoled/blob/master/kremni/lesnikov.md)
  * [Sladoled z javorjevim sirupom](https://github.com/rodeob/sladoled/blob/master/kremni/javorjev_sirup.md)
  * [Sladoled z arašidovim maslom](https://github.com/rodeob/sladoled/blob/master/arasidi/arasidovo_maslo.md)
    * [Sladoled z arašidovim maslom in arašidi](https://github.com/rodeob/sladoled/blob/master/arasidi/arasidovo_maslo.md#sladoled-z-ara%C5%A1idovim-maslom-in-ara%C5%A1idi)
