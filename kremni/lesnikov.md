@@ -15,4 +15,6 @@ Najprej pripravimo lešnikovo mleko. Lešnike na majhnem ognju previdno prepraž
 
 Lešnikovo zmes precedimo skozi zelo gosto cedilo. Gosti del pretlačimo, da iztisnemo čim več mleka. Dobljeno mleko uporabimo za pripravo kremne osnove. Po potrebi dodamo navadno mleko, da dobimo potrebno količino mleka za pripravo le te. Pravtako zmanjšamo količino sladkorja, za količino uporabljeno pri pripravi lešnikovega mleka. Ohlajeno prelijemo v napravo za izdelovanje sladoleda.
 
-Preden je sladoled narejen, lahko po okusu, dodamo nekaj zmletih lešnikov, ki so ostali na cedilu pri pripravi lešnikovega mleka.
+Preden je sladoled narejen, lahko po okusu, dodamo nekaj zmletih lešnikov, ki so ostali na cedilu pri pripravi lešnikovega mleka. 
+
+Ko je sladoled narejen, preložimo v posodo s pokrovom in damo za 1 uro v zamrzovalnik.
