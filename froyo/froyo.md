@@ -4,10 +4,10 @@ Nastane prijeten osvežilni sladoled z okusom po jogurtu. Lahko ga uporabimo za 
 
 ## Sestavine
 
- * 50 ml sladkorja v prahu
+ * 50 g sladkorja v prahu
  * 50 ml agavinega sirupa
  * 200 g grškega jogurta (10%)
- * 200 ml navadnega tekočega jogurta (3,5%)
+ * 250 g navadnega tekočega jogurta (3,5%)
  * ščepec soli
 
 ## Postopek
