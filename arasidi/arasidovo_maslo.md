@@ -4,11 +4,11 @@ Preprost recept za vse ljubitelje arašidov.
 
 ## Sestavine
 
- * 200 ml mleka
- * 150 ml smetane
- * 200 ml arašidovega masla
+ * 200 ml mleka (250)
+ * 150 ml smetane (75)
+ * 200 ml arašidovega masla (150)
  * vanilij sladkor
- * 70 ml sladkorja
+ * 70 ml sladkorja (50g)
  * ščepec soli
  
 ## Postopek
