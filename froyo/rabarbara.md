@@ -4,7 +4,7 @@ Sezonski zamrznjen jogurt z nevsakdanjim okusom.
 
 ## Sestavine
 
- * [zamrznjen jogurt](https://github.com/rodeob/sladoled/blob/master/froyo/froyo.md)
+ * [zamrznjen jogurt](../froyo/froyo.md)
  * 200 g olupljene rabarbare
  * 40 g sladkorja
  * 1 vanilij sladkor
