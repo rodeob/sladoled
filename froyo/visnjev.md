@@ -4,7 +4,7 @@ Prijeten osvežujoč sladoled.
 
 ## Sestavine
 
- * [zamrznjen jogurt](https://github.com/rodeob/sladoled/blob/master/froyo/froyo.md)
+ * [zamrznjen jogurt](../froyo/froyo.md)
  * 220 g očiščenih višenj
  
 ## Postopek
