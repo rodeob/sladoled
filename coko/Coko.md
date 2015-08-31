@@ -4,7 +4,7 @@ Dober temen čokoladni sladoled.
 
 ## Sestavine
 
- * [kremna osnova](https://github.com/rodeob/sladoled/blob/master/Osnova.md)
+ * [kremna osnova](../Osnova.md)
  * 50 ml javorjevega sirupa
  * 50 g temne čokolade
  * 2 žlici kakava v prahu
