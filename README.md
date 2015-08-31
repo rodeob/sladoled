@@ -21,6 +21,7 @@ Preizkušeni so bili v napravah:
 ### Čokoladni
  * [Navadni čokoladni sladoled](https://github.com/rodeob/sladoled/blob/master/coko/Coko.md)
    * [Čokoladni sladoled z meto](https://github.com/rodeob/sladoled/blob/master/coko/Coko.md#%C4%8Cokoladni-sladoled-z-meto-after-eight)
+ * [Čokoladni sladoled z belo čokolado](https://github.com/rodeob/sladoled/blob/master/coko/bela.md)
 
 ### Sadni
  * [Bananin kremni sladoled](https://github.com/rodeob/sladoled/blob/master/sadni/bananin.md)
