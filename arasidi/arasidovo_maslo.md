@@ -1,14 +1,14 @@
-# Sladoled z arašidovim maslom [WIP]
+# Sladoled z arašidovim maslom
 
 Preprost recept za vse ljubitelje arašidov.
 
 ## Sestavine
 
- * 200 ml mleka (250)
- * 150 ml smetane (75)
- * 200 ml arašidovega masla (150)
+ * 250 ml mleka
+ * 75 ml smetane
+ * 200 g arašidovega masla (150ml)
  * vanilij sladkor
- * 70 ml sladkorja (50g)
+ * 50g sladkorja
  * ščepec soli
  
 ## Postopek
