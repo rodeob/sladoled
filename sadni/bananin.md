@@ -4,7 +4,7 @@ Dobimo kremast bananin sladoled.
 
 ## Sestavine
 
- * [kremna osnova](https://github.com/rodeob/sladoled/blob/master/Osnova.md).
+ * [kremna osnova](../Osnova.md).
  * 50 ml agavinega sirupa
  * 2 banani
  * 2 žlici limoninega soka
