@@ -6,7 +6,7 @@ Ker bela čokolada vsebuje več maščob kot navadna čokolada, je potrebno v te
 
 ## Sestavine
 
- * [kremna osnova](https://github.com/rodeob/sladoled/blob/master/Osnova.md)
+ * [kremna osnova](../Osnova.md)
    * 250 ml mleka
    * 150 ml sladke smetane
  * 50 ml agavinega sirupa
