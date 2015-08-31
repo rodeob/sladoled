@@ -1,6 +1,6 @@
 # Dvojna osnova za kremni sladoled
 
-Dobimo enako zmes kot v [kremni osnovi](https://github.com/rodeob/sladoled/blob/master/Osnova.md), samo da je količina večja in jo moramo razdeliti na dva ali tri dele. Odvisno od želje in velikosti naprave za izdelavo sladoleda. Tako lahko naenkrat naredimo več različnih okusov.
+Dobimo enako zmes kot v [kremni osnovi](Osnova.md), samo da je količina večja in jo moramo razdeliti na dva ali tri dele. Odvisno od želje in velikosti naprave za izdelavo sladoleda. Tako lahko naenkrat naredimo več različnih okusov.
 
 ## Sestavine
 
