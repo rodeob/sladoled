@@ -7,8 +7,8 @@ Sam po sebi je jajčni kremast sladoled, ki pa ga zelo lahko obogatimo z raznimi
  * 50 g sladkorja
  * 1 rumenjak
  * ščepec soli
- * 250 ml polnomastnega mleka
- * 250 ml sladke smetane
+ * 200 ml polnomastnega mleka
+ * 200 ml sladke smetane
 
 ## Postopek
  
