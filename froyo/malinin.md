@@ -4,7 +4,7 @@ Hitra osvežitev v času malin.
 
 ## Sestavine
 
- * [zamrznjen jogurt](https://github.com/rodeob/sladoled/blob/master/froyo/froyo.md)
+ * [zamrznjen jogurt](../froyo/froyo.md)
  * 200 g malin
  
 ## Postopek
