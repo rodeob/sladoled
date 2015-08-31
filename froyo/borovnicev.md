@@ -4,7 +4,7 @@ Preprosta sadna klasika.
 
 ## Sestavine
 
- * [zamrznjen jogurt](https://github.com/rodeob/sladoled/blob/master/froyo/froyo.md)
+ * [zamrznjen jogurt](../froyo/froyo.md)
  * 200 ml borovnic
  
 ## Postopek
