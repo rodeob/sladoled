@@ -6,9 +6,9 @@ Preizkušeni so bili v napravah:
  * Simac Il Gelataio GC5000
 
 ## Osnove
- * [Kremna osnova](https://github.com/rodeob/sladoled/blob/master/Osnova.md)
- * [Dvojna kremna osnova](https://github.com/rodeob/sladoled/blob/master/OsnovaDvojna.md)
- * [Zamrznjen jogurt (frozen yogurt)](https://github.com/rodeob/sladoled/blob/master/froyo/froyo.md)
+ * [Kremna osnova](Osnova.md)
+ * [Dvojna kremna osnova](OsnovaDvojna.md)
+ * [Zamrznjen jogurt (frozen yogurt)](froyo/froyo.md)
 
 ## Kremni sladoledi
 
