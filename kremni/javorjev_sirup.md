@@ -4,7 +4,7 @@ Sladoled prijetnega okusa, ki se lahko tudi uporabi namesto kremne osnove v drug
 
 ## Sestavine
 
- * [kremna osnova](https://github.com/rodeob/sladoled/blob/master/Osnova.md).
+ * [kremna osnova](../Osnova.md).
  * 100 ml javorjevega sirupa
 
 ## Postopek
