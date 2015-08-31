@@ -4,7 +4,7 @@ Zelo osvežilen sladoled. Primeren za poletne dni, ker ni potrebno ničesar kuha
 
 ## Sestavine
 
- * [zamrznjen jogurt](https://github.com/rodeob/sladoled/blob/master/froyo/froyo.md)
+ * [zamrznjen jogurt](../froyo/froyo.md)
  * naribana lupinica ene limone
  * sok ene limone
  
