@@ -4,7 +4,7 @@ Resnični lešnikov sladoled brez umetne arome.
 
 ## Sestavine
 
- * [kremna osnova](https://github.com/rodeob/sladoled/blob/master/Osnova.md).
+ * [kremna osnova](../Osnova.md).
  * 100 g lešnikov
  * vanilij sladkor
  * 20 g sladkorja
