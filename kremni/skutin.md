@@ -1,4 +1,4 @@
-# Skutin sladoled (Cheese cake)
+# Skutin sladoled (Cheesecake)
 
 Za ko je prevroče za skution torto.
 
@@ -22,11 +22,11 @@ Za bolj tortas občutek, lahko v sladoled, preden ga preložimo v posodo za shan
 
 ## Variacije
 
-### Limonin skutin sladoled (Lemon cheese cake)
+### Limonin skutin sladoled (Lemon cheesecake)
 
 #### Sestavine
 
- * [skutin sladoled](#skutin-sladoled-cheese-cake)
+ * [skutin sladoled](#skutin-sladoled-cheesecake)
  * naribana limonina lupinica
  * limonin sok
 
