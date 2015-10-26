@@ -13,6 +13,8 @@ Preizkušeni so bili v napravah:
 ## Kremni sladoledi
 
  * [Lešnikov sladoled](kremni/lesnikov.md)
+ * [Skutin sladoled (Cheesecake)](kremni/skutin.md)
+   * [Limonin skutin sladoled (Lemon cheesecake)](kremni/skutin.md#limonin-skutin-sladoled-lemon-cheesecake)
  * [Sladoled z javorjevim sirupom](kremni/javorjev_sirup.md)
  * [Sladoled z arašidovim maslom](arasidi/arasidovo_maslo.md)
    * [Sladoled z arašidovim maslom in arašidi](arasidi/arasidovo_maslo.md#sladoled-z-ara%C5%A1idovim-maslom-in-ara%C5%A1idi)
