@@ -26,7 +26,7 @@ Za bolj tortas občutek, lahko v sladoled, preden ga preložimo v posodo za shan
 
 #### Sestavine
 
- * [skutin sladoled](#)
+ * [skutin sladoled](#skutin-sladoled-cheese-cake)
  * naribana limonina lupinica
  * limonin sok
 
