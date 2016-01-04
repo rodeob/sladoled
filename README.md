@@ -4,6 +4,8 @@ Količine uporabljene v receptih so primerne za naprave za izdelovanje sladoleda
 
 Preizkušeni so bili v napravah:
  * Simac Il Gelataio GC5000
+ 
+V vseh receptih, kjer se uporablja agavin sirup, se ga lahko nadomesti z javorjevim ali sladkornim sirupom.
 
 ## Osnove
  * [Kremna osnova](Osnova.md)
@@ -12,6 +14,7 @@ Preizkušeni so bili v napravah:
 
 ## Kremni sladoledi
 
+ * [Jabolčna pita](kremni/jabolcna_pita.md)
  * [Lešnikov sladoled](kremni/lesnikov.md)
  * [Skutin sladoled (Cheesecake)](kremni/skutin.md)
    * [Limonin skutin sladoled (Lemon cheesecake)](kremni/skutin.md#limonin-skutin-sladoled-lemon-cheesecake)
