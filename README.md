@@ -32,6 +32,7 @@ Preizkušeni so bili v napravah:
 
 ## Zamrznjen jogurt
  * [Borovničev zamrznjen jogurt](froyo/borovnicev.md)
+ * [Kakijev zamrznjen jogurt](froyo/kakijev.md)
  * [Limonin zamrznjen jogurt](froyo/limonin.md)
    * [Limetin zamrznjen jogurt](froyo/limonin.md#limetin-zamrznjen-jogurt)
  * [Malinin zamrznjen jogurt](froyo/malinin.md)
