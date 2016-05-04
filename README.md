@@ -14,7 +14,7 @@ V vseh receptih, kjer se uporablja agavin sirup, se ga lahko nadomesti z javorje
 
 ## Kremni sladoledi
 
- * [Jabolčna pita](kremni/jabolcna_pita.md)
+  * [Jabolčna pita](kremni/jabolcna_pita.md)
  * [Lešnikov sladoled](kremni/lesnikov.md)
  * [Skutin sladoled (Cheesecake)](kremni/skutin.md)
    * [Limonin skutin sladoled (Lemon cheesecake)](kremni/skutin.md#limonin-skutin-sladoled-lemon-cheesecake)
@@ -22,6 +22,7 @@ V vseh receptih, kjer se uporablja agavin sirup, se ga lahko nadomesti z javorje
  * [Sladoled z arašidovim maslom](arasidi/arasidovo_maslo.md)
    * [Sladoled z arašidovim maslom in arašidi](arasidi/arasidovo_maslo.md#sladoled-z-ara%C5%A1idovim-maslom-in-ara%C5%A1idi)
    * [Sladoled z arašidovim maslom in čokolado](arasidi/arasidovo_maslo.md#sladoled-z-ara%C5%A1idovim-maslom-in-%C4%8Dokolado)
+ * [Vanilijev sladoled](kremni/vanilija.md)
 
 ### Čokoladni
  * [Navadni čokoladni sladoled](coko/Coko.md)
